@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.trinity.RPNCalculatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-09-27T12:46:25" hostname="d45763bd7bfd.student.trincoll.edu" time="0.02">
+  <properties/>
+  <testcase name="testInvalidOperator()" classname="edu.trinity.RPNCalculatorTest" time="0.007"/>
+  <testcase name="testExcessiveOperands()" classname="edu.trinity.RPNCalculatorTest" time="0.003"/>
+  <testcase name="testInsufficientOperands()" classname="edu.trinity.RPNCalculatorTest" time="0.001"/>
+  <testcase name="testMultiplication()" classname="edu.trinity.RPNCalculatorTest" time="0.001"/>
+  <testcase name="testAddition()" classname="edu.trinity.RPNCalculatorTest" time="0.001"/>
+  <testcase name="testComplexExpression()" classname="edu.trinity.RPNCalculatorTest" time="0.001"/>
+  <testcase name="testDivisionByZero()" classname="edu.trinity.RPNCalculatorTest" time="0.001"/>
+  <testcase name="testDivision()" classname="edu.trinity.RPNCalculatorTest" time="0.001"/>
+  <testcase name="testSubtraction()" classname="edu.trinity.RPNCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
